@@ -1,5 +1,7 @@
 # Summary Program
-#Използвани алгоритми
+
+# Използвани алгоритми
+
  • Предварителна обработка на текста: -
 - Tokenization: Използва функциите nltk.tokenize.word_tokenize и
 nltk.tokenize.sent_tokenize съответно за токенизиране на думи и изречения.
